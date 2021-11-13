@@ -287,7 +287,7 @@
 |--------|-|--|--|--|--|--|--|--|--|
 | :five: |0| 0| 0| 0| 0| 0| 0| 0| 0|
 | :four: |0| 0| 0| 0| 0| 0| 0| 0| 0|
-|:three: |0| 0| 0| 0| 0| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:1st_place_medal:| 0|
+|:three: |0| 0| 0| 0| 0| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| 0|
 |  :two: |0| 0| 0| 0| 0| 0| 0| 0| 0|
 |  :one: |0| 0| 0| 0| 0| 0| 0| 0| 0|
 
