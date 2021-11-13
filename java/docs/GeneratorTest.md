@@ -1,4 +1,5 @@
-myPieces   : --------------
+myPieces   : 
+--------------
 
 |`~`     |a| b| c| d| e| f| g| h| i|
 |--------|-|--|--|--|--|--|--|--|--|
@@ -7,7 +8,8 @@ myPieces   : --------------
 |:three: |0| :1st_place_medal:| 0| :1st_place_medal:| 0| 0| :1st_place_medal:| 0| :1st_place_medal:|
 |  :two: |:1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:|
 |  :one: |:1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:|
-myOpponentPieces   : --------------
+myOpponentPieces   : 
+--------------
 
 |`~`     |a| b| c| d| e| f| g| h| i|
 |--------|-|--|--|--|--|--|--|--|--|
@@ -163,6 +165,3 @@ myOpponentPieces   : --------------
 |:three: |0| 0| 0| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| 0| 0| 0|
 |  :two: |0| 0| 0| 0| 0| 0| 0| 0| 0|
 |  :one: |0| 0| 0| 0| 0| 0| 0| 0| 0|
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.586 sec
-
-Results :
