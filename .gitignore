@@ -33,3 +33,10 @@ target
 ## --------------- SCALA --------------
 # sbt
 .bsp
+
+## --------------- HASKELL --------------
+*.hi
+*.o
+main
+
+dist-newstyle
