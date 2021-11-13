@@ -8,7 +8,7 @@ myPieces   : --------------
 |:three: |0| :1st_place_medal:| 0| :1st_place_medal:| 0| 0| :1st_place_medal:| 0| :1st_place_medal:|
 |  :two: |:1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:|
 |  :one: |:1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:|
-|`~`     |a| b| c| d| e| f| g| h| i|
+|`~`     |`a`| `b`| `c`| `d`| `e`| `f`| `g`| `h`| `i`|
 
 
 myOpponentPieces   : --------------
@@ -19,7 +19,7 @@ myOpponentPieces   : --------------
 |:three: |:1st_place_medal:| 0| :1st_place_medal:| 0| 0| :1st_place_medal:| 0| :1st_place_medal:| 0|
 |  :two: |0| 0| 0| 0| 0| 0| 0| 0| 0|
 |  :one: |0| 0| 0| 0| 0| 0| 0| 0| 0|
-|`~`     |a| b| c| d| e| f| g| h| i|
+|`~`     |`a`| `b`| `c`| `d`| `e`| `f`| `g`| `h`| `i`|
 
 ### :bulb: finding Next Element 
 
@@ -32,7 +32,7 @@ myOpponentPieces   : --------------
 |:three: |0| 0| 0| 0| 0| 0| 0| 0| 0|
 |  :two: |0| 0| 0| 0| :1st_place_medal:| 0| 0| 0| 0|
 |  :one: |0| 0| 0| 0| 0| 0| 0| 0| 0|
-|`~`     |a| b| c| d| e| f| g| h| i|
+|`~`     |`a`| `b`| `c`| `d`| `e`| `f`| `g`| `h`| `i`|
 
 
 
@@ -48,7 +48,7 @@ myOpponentPieces   : --------------
 |:three: |0| 0| 0| 0| :1st_place_medal:| 0| 0| 0| 0|
 |  :two: |0| 0| 0| 0| :1st_place_medal:| 0| 0| 0| 0|
 |  :one: |0| 0| 0| 0| 0| 0| 0| 0| 0|
-|`~`     |a| b| c| d| e| f| g| h| i|
+|`~`     |`a`| `b`| `c`| `d`| `e`| `f`| `g`| `h`| `i`|
 
 ### :bulb: finding Next Element 
 
@@ -61,7 +61,7 @@ myOpponentPieces   : --------------
 |:three: |0| 0| 0| 0| :1st_place_medal:| 0| 0| 0| 0|
 |  :two: |0| 0| 0| 0| 0| 0| 0| 0| 0|
 |  :one: |0| 0| 0| 0| 0| 0| 0| 0| 0|
-|`~`     |a| b| c| d| e| f| g| h| i|
+|`~`     |`a`| `b`| `c`| `d`| `e`| `f`| `g`| `h`| `i`|
 
 
 
@@ -77,7 +77,7 @@ myOpponentPieces   : --------------
 |:three: |0| 0| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| 0| 0| 0| 0|
 |  :two: |0| 0| 0| 0| 0| 0| 0| 0| 0|
 |  :one: |0| 0| 0| 0| 0| 0| 0| 0| 0|
-|`~`     |a| b| c| d| e| f| g| h| i|
+|`~`     |`a`| `b`| `c`| `d`| `e`| `f`| `g`| `h`| `i`|
 
 ### :bulb: finding Next Element 
 
@@ -90,7 +90,7 @@ myOpponentPieces   : --------------
 |:three: |0| 0| 0| 0| 0| 0| 0| 0| 0|
 |  :two: |0| 0| 0| 0| 0| :1st_place_medal:| 0| 0| 0|
 |  :one: |0| 0| 0| 0| 0| 0| 0| 0| 0|
-|`~`     |a| b| c| d| e| f| g| h| i|
+|`~`     |`a`| `b`| `c`| `d`| `e`| `f`| `g`| `h`| `i`|
 
 
 
@@ -106,7 +106,7 @@ myOpponentPieces   : --------------
 |:three: |0| 0| 0| 0| :1st_place_medal:| 0| 0| 0| 0|
 |  :two: |0| 0| 0| 0| 0| :1st_place_medal:| 0| 0| 0|
 |  :one: |0| 0| 0| 0| 0| 0| 0| 0| 0|
-|`~`     |a| b| c| d| e| f| g| h| i|
+|`~`     |`a`| `b`| `c`| `d`| `e`| `f`| `g`| `h`| `i`|
 
 ### :bulb: finding Next Element 
 
@@ -119,7 +119,7 @@ myOpponentPieces   : --------------
 |:three: |0| 0| 0| 0| 0| 0| 0| 0| 0|
 |  :two: |0| 0| 0| :1st_place_medal:| 0| 0| 0| 0| 0|
 |  :one: |0| 0| 0| 0| 0| 0| 0| 0| 0|
-|`~`     |a| b| c| d| e| f| g| h| i|
+|`~`     |`a`| `b`| `c`| `d`| `e`| `f`| `g`| `h`| `i`|
 
 
 
@@ -135,7 +135,7 @@ myOpponentPieces   : --------------
 |:three: |0| 0| 0| 0| :1st_place_medal:| 0| 0| 0| 0|
 |  :two: |0| 0| 0| :1st_place_medal:| 0| 0| 0| 0| 0|
 |  :one: |0| 0| 0| 0| 0| 0| 0| 0| 0|
-|`~`     |a| b| c| d| e| f| g| h| i|
+|`~`     |`a`| `b`| `c`| `d`| `e`| `f`| `g`| `h`| `i`|
 
 ### :bulb: finding Next Element 
 
@@ -148,7 +148,7 @@ myOpponentPieces   : --------------
 |:three: |0| 0| 0| 0| :1st_place_medal:| 0| 0| 0| 0|
 |  :two: |0| 0| 0| 0| 0| 0| 0| 0| 0|
 |  :one: |0| 0| 0| 0| 0| 0| 0| 0| 0|
-|`~`     |a| b| c| d| e| f| g| h| i|
+|`~`     |`a`| `b`| `c`| `d`| `e`| `f`| `g`| `h`| `i`|
 
 
 
@@ -164,4 +164,4 @@ myOpponentPieces   : --------------
 |:three: |0| 0| 0| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| 0| 0| 0|
 |  :two: |0| 0| 0| 0| 0| 0| 0| 0| 0|
 |  :one: |0| 0| 0| 0| 0| 0| 0| 0| 0|
-|`~`     |a| b| c| d| e| f| g| h| i|
+|`~`     |`a`| `b`| `c`| `d`| `e`| `f`| `g`| `h`| `i`|
