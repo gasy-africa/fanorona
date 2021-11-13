@@ -1,5 +1,7 @@
 # Fanorona
 
+## :a: Running the board game
+
 Use Maven to generate the jar and class files
 
 ```
@@ -23,5 +25,9 @@ $ mvn --batch-mode test --file pom.xml
 To run change the Run config using the following settings
 
 ![image](images/Run.png)
+
+## :b: Board Game Documentation
+
+[Documentation :pinching_hand:](docs)
 
 
