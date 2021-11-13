@@ -2,7 +2,6 @@
 
 myPieces   : --------------
 
-
 |`~`     |a| b| c| d| e| f| g| h| i|
 |--------|-|--|--|--|--|--|--|--|--|
 | :five: |0| 0| 0| 0| 0| 0| 0| 0| 0|
@@ -10,8 +9,8 @@ myPieces   : --------------
 |:three: |0| :1st_place_medal:| 0| :1st_place_medal:| 0| 0| :1st_place_medal:| 0| :1st_place_medal:|
 |  :two: |:1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:|
 |  :one: |:1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:|
-myOpponentPieces   : --------------
 
+myOpponentPieces   : --------------
 
 |`~`     |a| b| c| d| e| f| g| h| i|
 |--------|-|--|--|--|--|--|--|--|--|
