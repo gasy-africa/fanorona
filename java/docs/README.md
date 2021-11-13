@@ -14,6 +14,7 @@ static final int NO_MORE_MOVES = 4;
 
 ```java
 // how much to shift from coordinates
+int shiftType; -- just guessing no such variable
 public static final int SHIFT_VERTICAL = 10;
 public static final int SHIFT_HORIZONTAL = 1;
 public static final int SHIFT_SLANT = 11;
