@@ -10,6 +10,7 @@ myPieces   : --------------
 |  :two: |:1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:|
 |  :one: |:1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:| :1st_place_medal:|
 
+
 myOpponentPieces   : --------------
 
 |`~`     |a| b| c| d| e| f| g| h| i|
